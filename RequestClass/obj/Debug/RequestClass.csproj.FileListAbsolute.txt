@@ -1,0 +1,8 @@
+D:\University\Databases\CourseProject\Policlinic_App\RequestClass\bin\Debug\RequestClass.dll
+D:\University\Databases\CourseProject\Policlinic_App\RequestClass\bin\Debug\RequestClass.pdb
+D:\University\Databases\CourseProject\Policlinic_App\RequestClass\bin\Debug\Npgsql.dll
+D:\University\Databases\CourseProject\Policlinic_App\RequestClass\bin\Debug\Npgsql.pdb
+D:\University\Databases\CourseProject\Policlinic_App\RequestClass\bin\Debug\Npgsql.xml
+D:\University\Databases\CourseProject\Policlinic_App\RequestClass\obj\Debug\RequestClass.csprojResolveAssemblyReference.cache
+D:\University\Databases\CourseProject\Policlinic_App\RequestClass\obj\Debug\RequestClass.dll
+D:\University\Databases\CourseProject\Policlinic_App\RequestClass\obj\Debug\RequestClass.pdb

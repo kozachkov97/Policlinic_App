@@ -1,0 +1,13 @@
+D:\University\Databases\CourseProject\Policlinic_App\Policlinic_App\bin\Debug\Policlinic_App.exe.config
+D:\University\Databases\CourseProject\Policlinic_App\Policlinic_App\bin\Debug\Policlinic_App.exe
+D:\University\Databases\CourseProject\Policlinic_App\Policlinic_App\bin\Debug\Policlinic_App.pdb
+D:\University\Databases\CourseProject\Policlinic_App\Policlinic_App\obj\Debug\Policlinic_App.csprojResolveAssemblyReference.cache
+D:\University\Databases\CourseProject\Policlinic_App\Policlinic_App\obj\Debug\Policlinic_App.Properties.Resources.resources
+D:\University\Databases\CourseProject\Policlinic_App\Policlinic_App\obj\Debug\Policlinic_App.csproj.GenerateResource.Cache
+D:\University\Databases\CourseProject\Policlinic_App\Policlinic_App\obj\Debug\Policlinic_App.exe
+D:\University\Databases\CourseProject\Policlinic_App\Policlinic_App\obj\Debug\Policlinic_App.pdb
+D:\University\Databases\CourseProject\Policlinic_App\Policlinic_App\bin\Debug\RequestClass.dll
+D:\University\Databases\CourseProject\Policlinic_App\Policlinic_App\bin\Debug\Npgsql.dll
+D:\University\Databases\CourseProject\Policlinic_App\Policlinic_App\bin\Debug\RequestClass.pdb
+D:\University\Databases\CourseProject\Policlinic_App\Policlinic_App\bin\Debug\Npgsql.pdb
+D:\University\Databases\CourseProject\Policlinic_App\Policlinic_App\bin\Debug\Npgsql.xml
